@@ -15,4 +15,4 @@
 
 ## 2. 블록도
 
-<img src="./img/블록도.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="ROS"></img>
+<img src="./img/블록도.png" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="ROS"></img>
