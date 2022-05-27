@@ -18,7 +18,7 @@
    
   <img src="./img/ros통신 활용.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="ROS"></img>
 * 모터 제어   
-원하는 데이터 값을 토대로 모터를 제어함.   
+6핀 DC모터를 아두이노에서의 사용방법 연구중   
   <img src="./img/DC모터.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="ROS"></img>
 
 ## 4. 남은 과정들
